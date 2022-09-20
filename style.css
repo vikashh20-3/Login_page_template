@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+body{
+    background: url(img.jpg) no-repeat center center text;
+    background-size: cover;
+
+}
